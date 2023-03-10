@@ -1,0 +1,7 @@
+# Title: chinese-sites
+
+# Homepage: https://github.com/OneManEmpireStudio/OMES-uBlacklist-Subscription
+
+# Subscription: https://raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlacklist-Subscription/main/chinese-sites.txt
+
+# Licence: GNU GPLv3 CC BY-NC-SA 4.0

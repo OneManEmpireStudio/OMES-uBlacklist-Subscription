@@ -1,0 +1,34 @@
+# Title: avoid-visiting-sites
+
+# Homepage: https://github.com/OneManEmpireStudio/OMES-uBlacklist-Subscription
+
+# Subscription: https://raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlacklist-Subscription/main/avoid-visiting-sites.txt
+
+# Licence: GNU GPLv3 CC BY-NC-SA 4.0
+
+*://groups.google.com/* # This website will create groups in your list, and you can't delete them. But if you are a developer who use google group to communicate, and you can add @*://groups.google.com/* by yourself.
+
+*://discussions.ubisoft.com/* # This website will create an account using your Ubisoft account.
+*://forums-fr.ubisoft.com/* # This website is closed.
+*://forums.ubisoft.com/* # This website is closed.
+
+*://*.forums.blizzard.com/* # This website will create an account using your Battle.net account.
+*://*.blizzard.cn/* # This website is closed.
+
+*://*.gog.com/wishlist/* # This website will create records in your GOG.com account.
+*://*.gog.com/forum/* # This website will create records in your GOG.com account.
+
+*://answers.ea.com/* # This website will create an account using your EA account.
+
+*://forums.unrealengine.com/* # This website will create an account using your Epic Games account.
+*://forums.epicgames.com/* # This website will create an account using your Epic Games account.
+
+*://steamcommunity.com/?subsection=broadcasts # This website will create records in your Steam account.
+*://steamcommunity.com/app/*/eventcomments/* # This website will create records in your Steam account.
+*://steamcommunity.com/app/*/tradingforum/* # This website will create records in your Steam account.
+*://steamcommunity.com/app/*/discussions/* # This website will create records in your Steam account.
+*://steamcommunity.com/broadcast/watch/* # This website will create records in your Steam account.
+*://steamcommunity.com/discussions/* # This website will create records in your Steam account.
+
+*://support.rockstargames.com/community/* # This website will create records in your  Rockstar Games account.
+*://support.rockstargames.com/community # This website will create records in your  Rockstar Games account.

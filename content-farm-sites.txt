@@ -1,0 +1,39 @@
+# Title: content-farm-sites
+
+# Homepage: https://github.com/OneManEmpireStudio/OMES-uBlacklist-Subscription
+
+# Subscription: https://raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlacklist-Subscription/main/content-farm-sites.txt
+
+# Licence: GNU GPLv3 CC BY-NC-SA 4.0
+
+# These websites are content farm sites.
+title/☀️java压力测试工具/
+title/java压力测试工具☀️/
+title/✔️复制访问/
+title/复制访问✔️/
+title/✔️复制打开/
+title/复制打开✔️/
+title/官方网站✔️/
+title/✔️ 看片网/
+title/电影✔️/
+title/推荐㊙️/
+title/✔️推荐/
+title/首页✔️/
+title/㊙️官网/
+title/㊙️️百度/
+title/✔️百度/
+title/网址✔️/
+title/✔️官网/
+title/✔️推荐/
+title/com✔️/
+title/☀️TG/
+title/➡️网站/
+title/-✔️/
+title/网✅️/
+
+*://*.pinterest.co.uk/* # This website is a trash site.
+*://*.pinterest.com/* # This website is a trash site.
+
+*://*.weibo.com/* # This website is a fake news site.
+
+*://*.3loumao.org/* # This is a content farm site.
