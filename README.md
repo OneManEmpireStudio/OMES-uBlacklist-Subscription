@@ -17,6 +17,3 @@ Subscription: https://raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlackli
 ## License
 
 GNU GPLv3
-
-CC BY-NC-SA 4.0
-
