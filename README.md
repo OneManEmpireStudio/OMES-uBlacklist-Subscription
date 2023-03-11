@@ -1,6 +1,4 @@
-# OMES-uBlacklist-Subscription
-
-## uBlacklist Subscription
+# OMES uBlacklist Subscription
 
 + content-farm-sites: All useless websites from all over the world.
 
@@ -14,6 +12,6 @@ Subscription: https://raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlackli
 
 Subscription: https://raw.githubusercontent.com/OneManEmpireStudio/OMES-uBlacklist-Subscription/main/avoid-visiting-sites.txt
 
-## License
+# License
 
 GNU GPLv3
